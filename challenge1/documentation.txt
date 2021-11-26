@@ -1,0 +1,2 @@
+To start and test the application open the 'index.html' file in a browser.
+The application consists of an html file ('index.html') and a js file (app.js). The html file has three buttons and a table, while the js file is responsible for the logic part of the application. The idea is that each button consumes the api on a different endpoint, and after consuming the api, show the time obtained in the table.
